@@ -8,6 +8,9 @@ import com.example.boardgame.sim.PlayingTable.Item;
 import android.graphics.*;
 
 public class PlayingTable {
+	
+	
+	
 	public class Item {
 		private Bitmap image;
 		Rect size;
